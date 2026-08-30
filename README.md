@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T224
 ### Team Details
 #### **Team Name** <<Insert Your Team Name>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |          Sai apoorv         | CB.SC.U4AIE25127                      |                 |                                 |  
+|    Member 2     |          vaishnavi          |  CB.EN.U4CCE25109                  |                 |                                 |  
+|    Member 3     |  priya gowd                 |       CB.EN.U4CCE25102                 |                 |                                 |  
+|    Member 4     |          akilnilaa          | CB.EN.U4CCE25160                   |                 |                                 |   
+|    Member 5     |          mukesh             |   CB.SC.U4AIE25060                      |                 |                                 |  
+|    Member 6     |              deeraj          |   CB.SC.U4AIE25121                       |     Female      |                                 |   
 
 #### Mentor Details
 
