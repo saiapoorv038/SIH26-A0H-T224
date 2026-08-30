@@ -15,8 +15,8 @@
 |    Member 2     |          vaishnavi          |  CB.EN.U4CCE25109   |     FEMALE         |             ECE/CCE            |                                 |  
 |    Member 3     |  priya gowd                 |       CB.EN.U4CCE25102 |        FEMALE        |         ECE/CCE          |                                 |  
 |    Member 4     |          akilnilaa          | CB.EN.U4CCE25160     |       FEMALE          |            ECE/CCE                     |   
-|    Member 5     |          mukesh             |   CB.SC.U4AIE25060              MALE        |             CSE/AIE        |                                 |  
-|    Member 6     |              deeraj          |   CB.SC.U4AIE25121                MALE       |          CSE/AIE           |                                 |   
+|    Member 5     |          mukesh             |   CB.SC.U4AIE25060    |          MALE        |             CSE/AIE        |                                 |  
+|    Member 6     |              deeraj          |   CB.SC.U4AIE25121    |            MALE       |          CSE/AIE           |                                 |   
 
 #### Mentor Details
 
