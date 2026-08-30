@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T224
 ### Team Details
-#### **Team Name** <<gridx>> <br/>
+#### **Team Name gridx <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
