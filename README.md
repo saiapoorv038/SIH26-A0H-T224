@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |          Sai apoorv         | CB.SC.U4AIE25127   |   MALE              |        CSE/AIE                         |  
-|    Member 2     |          vaishnavi          |  CB.EN.U4CCE25109   |     FEMALE         |             ECE/CCE            |                                 |  
-|    Member 3     |  priya gowd                 |       CB.EN.U4CCE25102 |        FEMALE        |         ECE/CCE          |                                 |  
-|    Member 4     |          akilnilaa          | CB.EN.U4CCE25160     |       FEMALE          |            ECE/CCE                     |   
-|    Member 5     |          mukesh             |   CB.SC.U4AIE25060    |          MALE        |             CSE/AIE        |                                 |  
-|    Member 6     |              deeraj          |   CB.SC.U4AIE25121    |            MALE       |          CSE/AIE           |                                 |   
+|   Team Leader   |          Sai apoorv         | CB.SC.U4AIE25127   |   MALE              |        AIE                         |  
+|    Member 2     |          vaishnavi          |  CB.EN.U4CCE25109   |     FEMALE         |              CCE            |                                 |  
+|    Member 3     |  priya gowd                 |       CB.EN.U4CCE25102 |        FEMALE        |          CCE          |                                 |  
+|    Member 4     |          akilnilaa          | CB.EN.U4CCE25160     |       FEMALE          |             CCE                     |   
+|    Member 5     |          mukesh             |   CB.SC.U4AIE25060    |          MALE        |              AIE        |                                 |  
+|    Member 6     |              deeraj          |   CB.SC.U4AIE25121    |            MALE       |           AIE           |                                 |   
 
 #### Mentor Details
 
