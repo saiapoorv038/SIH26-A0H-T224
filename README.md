@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |       Dr.K.Sripriyan              | SI.GR                      |   AI                      |  k_sripriyan@cb.amrita.edu                        |
 | Industry       |                     |                       |                         |                          |
 
 -----
