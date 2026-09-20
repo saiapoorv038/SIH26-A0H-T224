@@ -42,3 +42,13 @@
 * Theme / Category:block chain & cyber security
 * Ministry / Organization: Ministry of Home Affairs
 https://1drv.ms/v/c/60acff5a2dced883/IQBrMMtM6z2KRqoGrdCImAwXAauOjPy--f-snlRpB5vjpao?e=JL28D2
+### Additional Team Member Details
+
+| Role | Name | Caste Category | Disability Details |
+|------|------|----------------|--------------------|
+| Team Leader | Sai Apoorv | BC |  None|
+| Member 2 | Vaishnavi | OC | None |
+| Member 3 | Priya Gowd | OC | None |
+| Member 4 | Akilnila | BC | None |
+| Member 5 | Mukesh | OC | None |
+| Member 6 | Deeraj | OC | None |
