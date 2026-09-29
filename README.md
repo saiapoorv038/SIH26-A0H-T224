@@ -7,7 +7,7 @@
 
 ## Team ID : 170024
 ### Team Details
-#### **Team Name gridx <br/>
+#### **Team Name GRIDX <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
