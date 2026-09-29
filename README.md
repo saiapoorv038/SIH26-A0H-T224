@@ -5,8 +5,9 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## Team ID : 170024
+## SIH26-A0H-T224
 ### Team Details
+### Team ID	170024
 #### Team Name GRIDX <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
